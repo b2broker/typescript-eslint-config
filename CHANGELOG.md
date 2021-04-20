@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.2](https://github.com/b2broker/typescript-eslint-config/compare/v1.0.1...v1.0.2) (2021-04-20)
+
+### Dependencies
+
+- upgrade `[@typescript-eslint](https://github.com/typescript-eslint)` to `v4.22.0` ([1fd8add](https://github.com/b2broker/typescript-eslint-config/commit/1fd8add2b088bc0eeaf8b2466d35186647f23646))
+- upgrade `eslint-config-b2broker` to `v1.0.4` ([0284998](https://github.com/b2broker/typescript-eslint-config/commit/028499858468ac5559007c1fe24bd44b014ffcc9))
+- upgrade `typescript` to `v4.2.4` ([fc39e36](https://github.com/b2broker/typescript-eslint-config/commit/fc39e36f1cc2eb6cc441de6c93f6471f5e265a12))
+
 ### [1.0.1](https://github.com/b2broker/typescript-eslint-config/compare/v1.0.0...v1.0.1) (2021-03-03)
 
 ### Dependencies
