@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.4](https://github.com/b2broker/typescript-eslint-config/compare/v1.0.3...v1.0.4) (2021-08-11)
+
+### Dependencies
+
+- move `[@typescript-eslint](https://github.com/typescript-eslint)` to `peerDependencies` ([bfd01f8](https://github.com/b2broker/typescript-eslint-config/commit/bfd01f8e49a9a114ae8c0b71eb12b906198f58b2))
+- move `eslint-config-b2broker` to `peerDependencies` ([d828d65](https://github.com/b2broker/typescript-eslint-config/commit/d828d65718277d6ccfb92cfc08cab4e6740b22e9))
+- move `typescript` to `peerDependencies` ([ae5da45](https://github.com/b2broker/typescript-eslint-config/commit/ae5da45d268685d102018c1cd00dad3088f831ec))
+
 ### [1.0.3](https://github.com/b2broker/typescript-eslint-config/compare/v1.0.2...v1.0.3) (2021-05-31)
 
 ### Dependencies
