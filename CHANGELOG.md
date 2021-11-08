@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.0.0](https://github.com/b2broker/typescript-eslint-config/compare/v1.0.5...v2.0.0) (2021-11-08)
+
+### ⚠ BREAKING CHANGES
+
+- upgrade `typescript-eslint` to `v5.3.0`
+
+### peerDependencies
+
+- upgrade `typescript-eslint` to `v5.3.0` ([d0e215a](https://github.com/b2broker/typescript-eslint-config/commit/d0e215ac4a8f381281a8eb17bcb489fabb5acdb8))
+
 ### [1.0.5](https://github.com/b2broker/typescript-eslint-config/compare/v1.0.4...v1.0.5) (2021-09-13)
 
 ### [1.0.4](https://github.com/b2broker/typescript-eslint-config/compare/v1.0.3...v1.0.4) (2021-08-11)
