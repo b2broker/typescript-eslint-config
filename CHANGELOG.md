@@ -1,5 +1,11 @@
 # Changelog
 
+### [2.0.1](https://github.com/b2broker/typescript-eslint-config/compare/v2.0.0...v2.0.1) (2022-04-09)
+
+### Performance Improvements
+
+- drop Node.js `<16.14.2` support ([206f426](https://github.com/b2broker/typescript-eslint-config/commit/206f426736c39965a82e6564ebd467b57b70aade))
+
 ## [2.0.0](https://github.com/b2broker/typescript-eslint-config/compare/v1.0.5...v2.0.0) (2021-11-08)
 
 ### ⚠ BREAKING CHANGES
